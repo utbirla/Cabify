@@ -1,1 +1,1 @@
-package cabmanagementsystem;
+package cabmanagement.icons;
