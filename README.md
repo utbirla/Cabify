@@ -35,35 +35,6 @@ Cabify is a **Java + MySQL based cab booking system** that allows users to book 
 
 ---
 
-## 🧩 Database Schema (Overview)
 
-- **Users Table**
-  - user_id
-  - name
-  - email
-  - password
 
-- **Cabs Table**
-  - cab_id
-  - driver_name
-  - cab_status
 
-- **Bookings Table**
-  - booking_id
-  - user_id
-  - cab_id
-  - source
-  - destination
-
-- **RestPoints Table**
-  - rest_id
-  - booking_id
-  - location_name
-
----
-
-## ⚙️ How to Run the Project
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/Cabify.git
